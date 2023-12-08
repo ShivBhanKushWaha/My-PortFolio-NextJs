@@ -5,17 +5,17 @@ const servicesData = [
     {
         icon: <GanttChartSquare size={72} strokeWidth={0.8}/>,
         title: 'Web Design',
-        description: 'I am offers to Web design differs from graphic design, which is primarily designed for print. Web designers focus on the creative, visual, and user experience elements of a website'
+        description: 'I am offers to Web design differs from graphic design, which is primarily designed for print. Web designers focus on the creativity'
     },
     {
         icon: <Blocks size={72} strokeWidth={0.8}/>,
         title: 'Web Developer',
-        description: 'Web developers create and maintain websites.which are measures of a websites speed and how much traffic the site can handle. In addition, web developers may create content for the site.'
+        description: 'Web developers create and maintain websites.which are measures of a websites speed and how much traffic the site can handle.'
     },
     {
         icon: <Gem size={72} strokeWidth={0.8}/>,
         title: 'App Developer',
-        description: 'Application developers write software programs for use across mobile operating systems, including Apple, Android, and Windows devices. application developers are also responsible for testing the application.'
+        description: 'Application developers write software programs for use across mobile operating systems, including Apple, Android, and Windows devices.'
     },
 ]
 
