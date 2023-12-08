@@ -46,7 +46,7 @@ const reviewsData = [
         avtar : '/reviews/avatar-2.png',
         name : 'Arjun',
         job : 'Java Developer',
-        review : 'The web app development industry has progressed significantly than in previous years. It takes lots of innovative web designing to develop a web app successfully.',
+        review : 'The web app development industry has progressed significantly than in previous years. It takes lots of innovative.',
     },
 ]
 
