@@ -47,7 +47,7 @@ const projectData = [
     category : 'ReactJs',
     name : 'Todo Website',
     description : "To-do list apps can help you organize tasks and deadlines.",
-    link : 'https://github.com/ShivBhanKushWaha/fullstack-ToDo-app-Backend',
+    link : 'https://resplendent-fenglisu-90382f.netlify.app/',
     github : 'https://github.com/ShivBhanKushWaha/fullstack-to-app-frontend',
   },
   {
