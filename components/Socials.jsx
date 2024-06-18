@@ -6,7 +6,8 @@ import {
     RiGithubFill,
     RiFacebookFill,
     RiInstagramFill,
-    RiCodeBoxFill
+    RiCodeBoxFill,
+    RiTwitterFill
 } from 'react-icons/ri'
 
 const icons = [
@@ -33,6 +34,10 @@ const icons = [
     {
         path: 'https://www.instagram.com/black_lover14444/',
         name:<RiInstagramFill/>,
+    },
+    {
+        path: 'https://twitter.com/technical_jugad',
+        name:<RiTwitterFill/>,
     },
 ]
 
