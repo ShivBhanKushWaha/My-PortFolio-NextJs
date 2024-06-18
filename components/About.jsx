@@ -161,7 +161,7 @@ const About = () => {
                         <div className="text-lg mt-12 xl:mt-8">
                             <TabsContent value='personal'>
                                 <div className="text-center xl:text-left">
-                                    <h3 className="h3 mb-4">Unmatched Service Quality for over 10 years</h3>
+                                    <h3 className="h3 mb-4">Unmatched Service Quality for over 2 years</h3>
                                     <p className="subtitle max-w-xl mx-auto xl:mx-0">I specialize in crafting intuitive websites with cutting-edges technology, 
                                     deliverying dynamic and engagin user experiences,</p>
                                     {/* icons */}

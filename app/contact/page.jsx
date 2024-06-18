@@ -16,7 +16,9 @@ const Contact = () => {
             <h1 className="h1 max-w-md mb-8">Let's Work Together.</h1>
             <p className="subtitle max-w-[400px]">"I believe that learning new things is more 
             important than holding higher positions". As a fresher, 
-            I would like to master my skills in the web development domain.I am eager to learn and grow.</p>
+            I would like to master my skills in the web development domain.I am eager to learn and grow.
+              Get Your own Portfolio Website or Website built for just 99₹.
+            </p>
           </div>
           {/* illustarion */}
           <div className="hidden xl:flex w-full bg-contact_illustration_light dark:bg-contact_illustration_dark

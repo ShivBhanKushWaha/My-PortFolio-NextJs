@@ -12,7 +12,7 @@ import {
 
 const icons = [
     {
-        path: 'https://www.youtube.com/@tappebajgamingmaudaha3051',
+        path: 'https://www.youtube.com/@ShivbhanKushwaha3051',
         name:<RiYoutubeFill/>,
     },
     {
