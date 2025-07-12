@@ -39,7 +39,7 @@ const Hero = () => {
                 {/* image */}
                 <div className='hidden xl:flex relative'>
                     {/* badge 1*/}
-                    <Badge endCountNum={1+} containerStyles='absolute top-[24%] -left-[5rem]'
+                    <Badge endCountNum={1} containerStyles='absolute top-[24%] -left-[5rem]'
                     badgeText="Years Of Experience" 
                     icon={<RiBriefcase4Fill/>}/>
                     {/* badge 2*/}
