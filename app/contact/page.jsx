@@ -17,7 +17,7 @@ const Contact = () => {
             <p className="subtitle max-w-[400px]">"I believe that learning new things is more 
             important than holding higher positions". As a fresher, 
             I would like to master my skills in the web development domain.I am eager to learn and grow.
-              Get Your own Portfolio Website or Website built for just 99₹.
+              Get Your own Portfolio Website or Website built for just 1999₹.
             </p>
           </div>
           {/* illustarion */}

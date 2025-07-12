@@ -68,18 +68,18 @@ const qualificationData = [
                 Mode: 'Online-Remote'
             },
             {
-                Company: 'The Sparks Foundation',
-                Role: 'Full Stack Development',
-                Period: 'June 2022 ~ July-2023',
-                Years: '2023 - 2023',
+                Company: 'Hoverin Aerospace',
+                Role: 'Android Developer',
+                Period: 'January 2024 - Jnue 2024',
+                Years: '2024 - 2024',
                 Mode: 'Online-Remote'
             },
             {
-                Company: 'SWOC Season-4',
-                Role: 'Contributer (Current)',
-                Period: 'December 2023 - Present',
-                Years: '2023 - 2024',
-                Mode: 'Online-Remote'
+                Company: 'Credit Insta',
+                Role: 'Android Developer',
+                Period: 'Jully 2024 - Current',
+                Years: '2024 - 2024',
+                Mode: 'Onsite'
             },
         ]
     }
