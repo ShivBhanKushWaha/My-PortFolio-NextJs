@@ -36,12 +36,12 @@ const Contact = () => {
             {/* address */}
             <div className="flex items-center gap-x-8">
               <HomeIcon size={18} className="text-primary"/>
-              <div>68/11 Pincode 2103.1, Rohari Patanpur</div>
+              <div>68/11 Pincode 2.0.41, Rohari Patanpur</div>
             </div>
             {/* phone */}
             <div className="flex items-center gap-x-8">
               <PhoneCall size={18} className="text-primary"/>
-              <div>+91 9115379563</div>
+              <div>+91 7777777777</div>
             </div>
           </div>
           <Form/>
